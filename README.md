@@ -1,6 +1,4 @@
-# vue
-
-This template should help get you started developing with Vue 3 in Vite.
+![image](https://github.com/user-attachments/assets/440ec467-74ec-41ef-91d4-4852bd9a843a)
 
 ## Recommended IDE Setup
 
